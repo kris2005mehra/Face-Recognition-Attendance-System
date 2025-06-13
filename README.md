@@ -16,6 +16,12 @@ Welcome to the Face Recognition Attendance System, developed during my internshi
 
 🔸 Data Security: Implements secure data storage practices to protect sensitive information.
 
+
+# 🗂️ Screenshots:-
+![image](https://github.com/user-attachments/assets/acd411b9-651d-4d55-871a-bd436f9ee1fd)
+![image](https://github.com/user-attachments/assets/41a86798-f830-47fc-a0c1-29c535f37c38)
+
+
 # 💻 Technologies Used:-
 
 Python
